@@ -2,5 +2,6 @@
 
 start app:
 
-cd cabo-pro;
+cd cabo-pro
+
 npm start
